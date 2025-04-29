@@ -1,0 +1,7 @@
+com/hometypes/hometypesanalyzer/model/SummerHouse.class
+com/hometypes/hometypesanalyzer/model/NormalHouse.class
+com/hometypes/hometypesanalyzer/HometypesanalyzerApplication.class
+com/hometypes/hometypesanalyzer/data/HouseDataSource.class
+com/hometypes/hometypesanalyzer/model/House.class
+com/hometypes/hometypesanalyzer/model/Villa.class
+com/hometypes/hometypesanalyzer/service/HouseService.class
